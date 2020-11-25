@@ -18,7 +18,8 @@ Curious to know about me more - Go to my [Linkedin Profile](https://www.linkedin
    
 ## Machine Learning Projects
 
-3. [Pima Indians Diabetes](https://www.kaggle.com/ankur561999/recognizing-cats-and-dogs-using-vgg16) - An end to end machine learning project to predict whether a person have diabetes or not based on diagnostic measurements.
+3. [Pima Indians Diabetes](https://github.com/ankurkumar-ml/pima-indians-diabetes) - An end to end machine learning project to predict whether a person have diabetes or not based on diagnostic measurements.
 
    Live: [Make predictions live](https://ml-diabetes-ml.herokuapp.com/)
-   Highlights: *Data Analysis, Data Vasualization, Modeling, NumPy, Pandas, Matplotlib, Scikit-learn* 
+   
+   Highlights: *Data Analysis, Data Vasualization, Modeling, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn* 
