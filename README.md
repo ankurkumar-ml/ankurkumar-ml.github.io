@@ -1,7 +1,6 @@
 # Data-Science-Portfolio
 This repository is perceived as a data science portfolio. It contains information about my data science projects that i have completed for self learning.
 
-Curious to know about me more - Go to my [Linkedin Profile](https://www.linkedin.com/in/ankurkumar99).
 
 ## Deep Learning Projects
 1. [Face Mask Detection](https://www.kaggle.com/ankur561999/face-mask-detection) - A deep learning model to detect whether a person is wearing mask or not. Model is trained using 50 layer ResNet with Keras and achieved 95.95% accuracy on validation set.
@@ -28,3 +27,8 @@ Curious to know about me more - Go to my [Linkedin Profile](https://www.linkedin
 
    
    Highlights: *Data Analysis, Data Vasualization, Modeling, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LogisticRegression, Decision tree, SVM, KNN, Ensemble Methods* 
+
+
+## Contact
+If you have enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration feel free to contact me on - [Linkedin](https://www.linkedin.com/in/ankurkumar99) or shoot an email at ankurkumar14320@gmail.com.
+ 
