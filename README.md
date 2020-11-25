@@ -18,8 +18,13 @@ Curious to know about me more - Go to my [Linkedin Profile](https://www.linkedin
    
 ## Machine Learning Projects
 
-3. [Pima Indians Diabetes](https://github.com/ankurkumar-ml/pima-indians-diabetes) - An end to end machine learning project to predict whether a person have diabetes or not based on diagnostic measurements.
+1. [Pima Indians Diabetes](https://github.com/ankurkumar-ml/pima-indians-diabetes) - An end to end machine learning project to predict whether a person have diabetes or not based on diagnostic measurements.
 
    Live: [Make predictions live](https://ml-diabetes-ml.herokuapp.com/)
    
-   Highlights: *Data Analysis, Data Vasualization, Modeling, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn* 
+   Highlights: *Data Analysis, Data Vasualization, Modeling, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LogisticRegression, SVM, KNN, Ensemble Methods* 
+   
+2. [Titanic](https://github.com/ankurkumar-ml/titanic) - Predict survival of titanic passengers based on age, gender, pclass, etc.
+
+   
+   Highlights: *Data Analysis, Data Vasualization, Modeling, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LogisticRegression, Decision tree, SVM, KNN, Ensemble Methods* 
