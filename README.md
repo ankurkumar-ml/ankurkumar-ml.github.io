@@ -30,5 +30,6 @@ This repository is perceived as a data science portfolio. It contains informatio
 
 
 ## Contact
-If you have enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration feel free to contact me on - [Linkedin](https://www.linkedin.com/in/ankurkumar99) or shoot an email at ankurkumar14320@gmail.com.
- 
+If you have enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration feel free to contact me on - [Linkedin](https://www.linkedin.com/in/ankurkumar99) 
+
+or shoot an email at ankurkumar.data@gmail.com 
